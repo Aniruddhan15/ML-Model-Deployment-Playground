@@ -1,0 +1,27 @@
+# ML-Model-Deployment-Playground 🚀
+
+Welcome to the **ML Deployment Playground**! This repository showcases multiple ways to deploy a Machine Learning model, from basic APIs to scalable cloud-native solutions. Whether you're a beginner exploring FastAPI or a DevOps enthusiast implementing CI/CD, this repo has something for you!
+
+---
+
+## 🧠 Project Overview
+
+We use a simple ML model (e.g., Iris Classifier or Sentiment Analyzer) and deploy it using **11 different methods**:
+
+| # | Deployment Method           | Description |
+|---|-----------------------------|-------------|
+| 1 | FastAPI (Basic)             | Serve ML model using FastAPI |
+| 2 | FastAPI Public API          | Expose the model as a public API |
+| 3 | Heroku                      | Host FastAPI app on Heroku |
+| 4 | Dockerized API              | Containerize the API for portable deployment |
+| 5 | Azure App Service           | Deploy the app on Microsoft Azure |
+| 6 | Streamlit App (Optional)   | Frontend UI for interacting with the model |
+| 7 | AWS Lambda + API Gateway   | Serverless deployment using AWS |
+| 8 | CI/CD (Heroku/Docker/Azure)| Automate testing & deployment |
+| 9 | GitHub Actions              | CI/CD via GitHub Workflows |
+|10 | Flask API                   | Serve the model using Flask |
+
+---
+
+## 🗂️ Folder Structure
+
